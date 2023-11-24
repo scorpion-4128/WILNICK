@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical">
+    
+    <androidx.appcompat.widget.Toolbar
+        android:background="?colorPrimary"
+        android:id="@+id/toolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:minHeight="?actionBarSize"
+        android:theme="@style/ToolbarTheme"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        app:titleTextAppearance="@style/Toolbar.TitleText">
+        
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"/>
+        
+    
+    </androidx.appcompat.widget.Toolbar>
+    
+    <androidx.cardview.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15.0dip"
+        android:layout_marginRight="15.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_width="fill_parent"
+        app:cardCornerRadius="2.0dip"
+        app:cardPreventCornerOverlap="false">
+        
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:orientation="vertical"
+            android:padding="10.0dip">
+            
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5.0dip"
+                android:layout_width="fill_parent"
+                android:padding="5.0dip">
+                
+                <LinearLayout
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:orientation="vertical"
+                    android:padding="10.0dip">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:text="CURRENT COINS"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="14.0dip"/>
+                    
+                    <TextView
+                        android:id="@+id/coins"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="0"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="24.0dip"
+                        android:textStyle="bold"/>
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8.0dip"
+                        android:layout_width="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:text="Select and Extend your time 'NusantaraVPN' "
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="10.0dip"/>
+                    
+                    <Button
+                        android:background="@drawable/butys"
+                        android:id="@+id/addcoins"
+                        android:layout_gravity="center"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5.0dip"
+                        android:layout_width="fill_parent"
+                        android:text="Get More Coins - FREE"
+                        android:textColor="#ffffffff"/>
+                    
+                
+                </LinearLayout>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+    
+    </androidx.cardview.widget.CardView>
+    
+    <androidx.cardview.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_width="fill_parent"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="2.0dip"
+        app:cardPreventCornerOverlap="false">
+        
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+            
+            <LinearLayout
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="horizontal"
+                android:padding="6.0dip">
+                
+                <ImageView
+                    android:layout_gravity="start|center"
+                    android:layout_height="30.0dip"
+                    android:layout_width="30.0dip"
+                    android:src="@drawable/timer"
+                    android:tint="@color/colorPrimary"/>
+                
+                <LinearLayout
+                    android:gravity="start"
+                    android:layout_gravity="start|center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10.0dip"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="2 Hours"
+                        android:textColor="@color/colorPrimary"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="14.0dip"
+                        android:textStyle="bold"/>
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:layout_width="wrap_content"
+                        android:text="Convert coin to (2Hours)"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="10.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+                <LinearLayout
+                    android:gravity="end"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40.0dip"
+                    android:layout_width="fill_parent"
+                    android:orientation="vertical">
+                    
+                    <Button
+                        android:background="@drawable/butys"
+                        android:id="@+id/btn1"
+                        android:layout_gravity="center"
+                        android:layout_height="35.0dip"
+                        android:layout_width="120.0dip"
+                        android:singleLine="true"
+                        android:text="1 Coin"
+                        android:textColor="#ffffffff"
+                        android:textSize="12.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+    
+    </androidx.cardview.widget.CardView>
+    
+    <androidx.cardview.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_width="fill_parent"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="2.0dip"
+        app:cardPreventCornerOverlap="false">
+        
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+            
+            <LinearLayout
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="horizontal"
+                android:padding="6.0dip">
+                
+                <ImageView
+                    android:layout_gravity="start|center"
+                    android:layout_height="30.0dip"
+                    android:layout_width="30.0dip"
+                    android:src="@drawable/timer"
+                    android:tint="@color/colorPrimary"/>
+                
+                <LinearLayout
+                    android:gravity="start"
+                    android:layout_gravity="start|center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10.0dip"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:text="12 Hours"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="14.0dip"
+                        android:textStyle="bold"/>
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:layout_width="wrap_content"
+                        android:text="Convert coin to(12Hours)"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="10.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+                <LinearLayout
+                    android:gravity="end"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40.0dip"
+                    android:layout_width="fill_parent"
+                    android:orientation="vertical">
+                    
+                    <Button
+                        android:background="@drawable/butys"
+                        android:id="@+id/btn2"
+                        android:layout_gravity="center"
+                        android:layout_height="35.0dip"
+                        android:layout_width="120.0dip"
+                        android:singleLine="true"
+                        android:text="5 Coins"
+                        android:textColor="#ffffffff"
+                        android:textSize="12.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+    
+    </androidx.cardview.widget.CardView>
+    
+    <androidx.cardview.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_width="fill_parent"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="2.0dip"
+        app:cardPreventCornerOverlap="false">
+        
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+            
+            <LinearLayout
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="horizontal"
+                android:padding="6.0dip">
+                
+                <ImageView
+                    android:layout_gravity="start|center"
+                    android:layout_height="30.0dip"
+                    android:layout_width="30.0dip"
+                    android:src="@drawable/timer"
+                    android:tint="@color/colorPrimary"/>
+                
+                <LinearLayout
+                    android:gravity="start"
+                    android:layout_gravity="start|center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10.0dip"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="1 Day"
+                        android:textColor="@color/colorPrimary"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="14.0dip"
+                        android:textStyle="bold"/>
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:text="Convert coin to(24Hours)"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="10.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+                <LinearLayout
+                    android:gravity="end"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40.0dip"
+                    android:layout_width="fill_parent"
+                    android:orientation="vertical">
+                    
+                    <Button
+                        android:background="@drawable/butys"
+                        android:id="@+id/btn3"
+                        android:layout_gravity="center"
+                        android:layout_height="35.0dip"
+                        android:layout_width="120.0dip"
+                        android:singleLine="true"
+                        android:text="10 Coins"
+                        android:textColor="#ffffffff"
+                        android:textSize="12.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+    
+    </androidx.cardview.widget.CardView>
+    
+    <androidx.cardview.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_width="fill_parent"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="2.0dip"
+        app:cardPreventCornerOverlap="false">
+        
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+            
+            <LinearLayout
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="horizontal"
+                android:padding="6.0dip">
+                
+                <ImageView
+                    android:layout_gravity="start|center"
+                    android:layout_height="30.0dip"
+                    android:layout_width="30.0dip"
+                    android:src="@drawable/timer"
+                    android:tint="@color/colorPrimary"/>
+                
+                <LinearLayout
+                    android:gravity="start"
+                    android:layout_gravity="start|center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10.0dip"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="4 Days"
+                        android:textColor="@color/colorPrimary"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="14.0dip"
+                        android:textStyle="bold"/>
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:layout_width="wrap_content"
+                        android:text="Convert coin to (96 Hours)"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="10.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+                <LinearLayout
+                    android:gravity="end"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40.0dip"
+                    android:layout_width="fill_parent"
+                    android:orientation="vertical">
+                    
+                    <Button
+                        android:background="@drawable/butys"
+                        android:id="@+id/btn4"
+                        android:layout_gravity="center"
+                        android:layout_height="35.0dip"
+                        android:layout_width="120.0dip"
+                        android:singleLine="true"
+                        android:text="30 Coins"
+                        android:textColor="#ffffffff"
+                        android:textSize="12.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+    
+    </androidx.cardview.widget.CardView>
+    
+    <androidx.cardview.widget.CardView
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_width="fill_parent"
+        app:cardBackgroundColor="#ffffff"
+        app:cardCornerRadius="2.0dip"
+        app:cardPreventCornerOverlap="false">
+        
+        <LinearLayout
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:padding="6.0dip">
+            
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="horizontal">
+                
+                <ImageView
+                    android:layout_gravity="start|center"
+                    android:layout_height="30.0dip"
+                    android:layout_width="30.0dip"
+                    android:src="@drawable/timer"
+                    android:tint="@color/colorPrimary"/>
+                
+                <LinearLayout
+                    android:gravity="start"
+                    android:layout_gravity="start|center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10.0dip"
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:layout_width="wrap_content"
+                        android:text="24 Days"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="14.0dip"
+                        android:textStyle="bold"/>
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:textColor="@color/colorPrimary"
+                        android:text="Convert coin to (576 Hours)"
+                        android:textAppearance="?android:textAppearanceSmall"
+                        android:textSize="10.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+                <LinearLayout
+                    android:gravity="end"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40.0dip"
+                    android:layout_width="fill_parent"
+                    android:orientation="vertical">
+                    
+                    <Button
+                        android:background="@drawable/butys"
+                        android:id="@+id/btn5"
+                        android:layout_gravity="center"
+                        android:layout_height="35.0dip"
+                        android:layout_width="120.0dip"
+                        android:singleLine="true"
+                        android:text="100 Coins"
+                        android:textColor="#ffffffff"
+                        android:textSize="12.0dip"/>
+                    
+                
+                </LinearLayout>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+    
+    </androidx.cardview.widget.CardView>
+    
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView1"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8.0dip"
+        android:layout_width="wrap_content"
+        ads:adSize="LARGE_BANNER"
+        ads:adUnitId="ca-app-pub-3940256099942544/6300978111"/>
+    
+
+</LinearLayout>

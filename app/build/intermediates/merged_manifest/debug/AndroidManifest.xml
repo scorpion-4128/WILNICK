@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nusantara.id"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="33" />
+
+    <!-- - Permissions -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.MODIFY_SYSTEM_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- - Application -->
+    <application
+        android:name="com.nusantara.id.NusantaraApp"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="true"
+        android:icon="@drawable/nusantara"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:resizeableActivity="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+
+        <!-- - Activities -->
+
+        <activity
+            android:name="com.nusantara.id.LauncherActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/SplashScreenTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nusantara.id.NusantaraActivity"
+            android:exported="true"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.nusantara.id.CoinsActivity"
+            android:label="Coin Manager" />
+        <activity
+            android:name="com.nusantara.id.activities.ConfigGeralActivity"
+            android:label="@string/settings"
+            android:parentActivityName="com.nusantara.id.NusantaraActivity" />
+
+        <service android:name="com.nusantara.id.model.KeepAliveService" />
+
+        <activity
+            android:name="com.nusantara.id.activities.AboutActivity"
+            android:label="@string/about"
+            android:parentActivityName="com.nusantara.id.NusantaraActivity" />
+        <activity
+            android:name="com.nusantara.xyz.LaunchVpn"
+            android:autoRemoveFromRecents="true"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:taskAffinity=".LaunchVPN"
+            android:theme="@style/AppThemeLogin" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- This is for ensuring the background service still runs when/if the app is swiped away -->
+        <activity
+            android:name="com.nusantara.id.activities.CustomDNS"
+            android:label="Set DNS"
+            android:parentActivityName="com.nusantara.id.NusantaraActivity" />
+
+        <!-- - Receivers -->
+        <receiver
+            android:name="com.nusantara.xyz.NusantaraReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name=".NusantaraReceiver.ACTION_SERVICE_STOP" >
+                </action>
+                <action android:name=".NusantaraReceiver.ACTION_SERVICE_RESTART" >
+                </action>
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.nusantara.id.activities.InjectorService" />
+        <!-- - Services -->
+        <service
+            android:name="com.nusantara.xyz.tunnel.vpn.TunnelVpnService"
+            android:enabled="true"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_VPN_SERVICE" >
+            <intent-filter>
+                <action android:name="android.net.VpnService" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.nusantara.xyz.NusantaraService"
+            android:exported="false"
+            android:label="Nusantara Service"
+            android:stopWithTask="false" >
+        </service>
+
+        <!-- - Meta Data -->
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9870690854198040~5410771051" />
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+
+        <!-- corrige bug em Android 9 -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity android:name="egcodes.com.speedtest.MainActivity" />
+        <activity android:name="com.nusantara.id.WebBrowser" />
+        <activity android:name="com.nusantara.id.Ambatukam" />
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.nusantara.id.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+    </application>
+
+</manifest>

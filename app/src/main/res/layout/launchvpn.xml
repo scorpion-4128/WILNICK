@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/shadow">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#FFFFFF"
+		android:text="WILNICK is starting ...."
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:textStyle="bold"
+		android:textSize="17sp"
+		android:layout_gravity="center"/>
+
+	<ProgressBar
+		android:layout_width="200.0dp"
+		style="?android:attr/progressBarStyleLarge"
+		android:layout_height="200.0dp"
+		android:layout_gravity="center"/>
+
+</FrameLayout>
+

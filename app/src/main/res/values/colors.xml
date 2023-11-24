@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="gray_light">#9abeba</color>
+	<color name="blue">#9abeba</color>
+	<color name="blue_light">#9abeba</color>
+	<color name="gray">#9abeba</color>
+	<color name="black_light">#333333</color>
+	<color name="white">#ffffff</color>
+	<color name="red">#FD1C0D</color>
+	<color name="yellow">#EEFD00</color>
+	<color name="green">#04D000</color>
+	<color name="black">@color/colorPrimary</color>
+	<color name="colorPrimary">#9abeba</color>
+	<color name="colorPrimaryDark">#9abeba</color>
+	<color name="colorSecondary">#9abeba</color>
+	<color name="colorAccent">#9abeba</color>
+	
+	<color name="textColorPrimary">@color/colorPrimary</color>
+	<color name="textColorSecondary">@color/colorPrimary</color>
+	<color name="colorTextEnabled">@color/colorPrimary</color>
+	<color name="colorTextDisabled">@color/colorPrimary</color>
+	
+	<color name="colorText">@color/colorPrimary</color>
+	<color name="colorPrimaryBackground">#EAEAEA</color>
+	<color name="colorSecondaryBackground">#ffffff</color>
+	<color name="shadow">#cc222222</color>
+	<color name="transparent">#00000000</color>
+</resources>

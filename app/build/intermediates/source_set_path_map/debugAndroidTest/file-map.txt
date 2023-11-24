@@ -1,0 +1,4 @@
+com.nusantara.id.test.app-androidTest-0 C:\Users\IPEPH\Desktop\NusantaraVPN\app\build\generated\res\resValues\androidTest\debug
+com.nusantara.id.test.app-mergeDebugAndroidTestResources-1 C:\Users\IPEPH\Desktop\NusantaraVPN\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nusantara.id.test.app-mergeDebugAndroidTestResources-2 C:\Users\IPEPH\Desktop\NusantaraVPN\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nusantara.id.test.app-merged_res-3 C:\Users\IPEPH\Desktop\NusantaraVPN\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,521 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:2:1-131:12
+MERGED from [conscrypt-android-2.5.2.aar] C:\Users\IPEPH\.gradle\caches\transforms-3\7dfea2d987c830e5f7ee55cda11bdb1b\transformed\jetified-conscrypt-android-2.5.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\IPEPH\.gradle\caches\transforms-3\be9ba5dac461f99251c79e17bd00f6e8\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\IPEPH\.gradle\caches\transforms-3\4362fcb527871e718161f451f31cea78\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\294d34fd5e703b3c4038dbd695d4b394\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\IPEPH\.gradle\caches\transforms-3\d44013ef8dd8da144f9b59396f352688\transformed\preference-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\IPEPH\.gradle\caches\transforms-3\dda4c85bec68dc9ca379131dbb58d934\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.kimchangyoun:rootbeerFresh:0.0.10] C:\Users\IPEPH\.gradle\caches\transforms-3\55708ade0b6a8e91de44908ac094a464\transformed\jetified-rootbeerFresh-0.0.10\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\IPEPH\.gradle\caches\transforms-3\ffaee50a37c20ed7bb1c6ab76afed26e\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\86985ebe2dc55b16895a58cdbffa8624\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\4b94dc9ea749f50a38c63fe52287427f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\IPEPH\.gradle\caches\transforms-3\92847c6ec517962a80c04a7f971d5996\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\IPEPH\.gradle\caches\transforms-3\e1cd3b4216bd8ae860b040f6981b1279\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\IPEPH\.gradle\caches\transforms-3\b5c4a993fada016a77e57219e76111f6\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\IPEPH\.gradle\caches\transforms-3\ee6ab3289ae5fe17bb544e5c7bbd1355\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\47064a952f395066271fc71f3be24dc0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\ef801f4cd202f9d346adff26f4703f03\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\IPEPH\.gradle\caches\transforms-3\74e20ec8b4dbc976176201cdbf444a44\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\1585c4c2be2a8b3932e0e45525cfac7a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\decb13dd2ad18bd8f6487c30f06c05b4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5885c23aba5cb82796b9c0bf2ff51458\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\c355f25d81538813abdab108d311b128\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\e71f9b1e35057f0915d3c9a825c8c055\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\dd0f8b6329ce41c6293f61ae8c3e0d7f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\8d378a1fa9e7c53e4f0ab69352d3878e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\a63954b77b113f3ab16034653559761e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\060bfcd91c4a1d88c246496b75d6e53d\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\IPEPH\.gradle\caches\transforms-3\5d8f502005c4b98f62cdf9bfa30fd377\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\ad4f14a7a56b59156760a790f59a718d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f7554dde3be330bf02d20ce680e3f779\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\9882cace8b2e42b4db6ffa1276ab6739\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\88ae161a8183b8eddafc811b527dc400\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\1dfa581f6fbe62b65d5dede4adb94405\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\IPEPH\.gradle\caches\transforms-3\43ac461557ceff48a38ef017a8e9ea5a\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\9785e2caff9380ec13202caa3b9f1390\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\bb0ada9fb98dbf4e3dacc86bdbd74b69\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\661a375e8a05ccb7b73544ee5f6b6db9\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7dbed2b3d4833d5af3d34b44f932bc6a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\cd58304f5f9e63928eb5bc4775bc4af9\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\107da3426154d17142d50e5983312f2d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\49bff969c455936e768bb390ca623b14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\bd68a78bd6e9624c84b9b7ebbfd0a904\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\891e7be3da01814443a3bc038f4f44cb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\e79a4b2ad5b0f33d2e9310f9df028c25\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\a2c539ea7fcf6e4c4850f186d0f13f42\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\3fe810f0ea619775bf2ba9acd67b2d62\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\a58f97117db1c6bbb12ca59c94651ebb\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f3444f63cb1bf370ec5e929b47196d9a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7a7909f49ce1599e92ce4452073bb674\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\03a5b86cc1fd402926454247ee78e7c6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\dbed63fe835b50be2d6d6e0d9c5a5918\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6c1161375f9317274ba794e818ed8b11\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\aa69e74e6b71c4e2a047d349c1ab89fa\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7757a7744315b228162111e6fbcae197\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5d432499d8bd6f5141d24cd0a0cc89b6\transformed\jetified-play-services-ads-lite-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6b0e21e7e772806ca557ed804760ef22\transformed\jetified-play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
+	package
+		INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:7:2-63
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:7:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:8:2-75
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:8:19-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:9:2-72
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:9:19-70
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:10:2-74
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:10:19-71
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:11:2-70
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:11:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:14:22-79
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:15:2-73
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:15:19-71
+uses-permission#android.permission.MODIFY_SYSTEM_SETTINGS
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:16:2-77
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:16:19-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:18:22-65
+application
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:22:5-128:19
+INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:22:5-128:19
+MERGED from [conscrypt-android-2.5.2.aar] C:\Users\IPEPH\.gradle\caches\transforms-3\7dfea2d987c830e5f7ee55cda11bdb1b\transformed\jetified-conscrypt-android-2.5.2\AndroidManifest.xml:11:5-20
+MERGED from [conscrypt-android-2.5.2.aar] C:\Users\IPEPH\.gradle\caches\transforms-3\7dfea2d987c830e5f7ee55cda11bdb1b\transformed\jetified-conscrypt-android-2.5.2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\IPEPH\.gradle\caches\transforms-3\be9ba5dac461f99251c79e17bd00f6e8\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\IPEPH\.gradle\caches\transforms-3\be9ba5dac461f99251c79e17bd00f6e8\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\IPEPH\.gradle\caches\transforms-3\4362fcb527871e718161f451f31cea78\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\IPEPH\.gradle\caches\transforms-3\4362fcb527871e718161f451f31cea78\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.kimchangyoun:rootbeerFresh:0.0.10] C:\Users\IPEPH\.gradle\caches\transforms-3\55708ade0b6a8e91de44908ac094a464\transformed\jetified-rootbeerFresh-0.0.10\AndroidManifest.xml:11:5-20
+MERGED from [com.github.kimchangyoun:rootbeerFresh:0.0.10] C:\Users\IPEPH\.gradle\caches\transforms-3\55708ade0b6a8e91de44908ac094a464\transformed\jetified-rootbeerFresh-0.0.10\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\IPEPH\.gradle\caches\transforms-3\43ac461557ceff48a38ef017a8e9ea5a\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\IPEPH\.gradle\caches\transforms-3\43ac461557ceff48a38ef017a8e9ea5a\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\49bff969c455936e768bb390ca623b14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\49bff969c455936e768bb390ca623b14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\bd68a78bd6e9624c84b9b7ebbfd0a904\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\bd68a78bd6e9624c84b9b7ebbfd0a904\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5d432499d8bd6f5141d24cd0a0cc89b6\transformed\jetified-play-services-ads-lite-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5d432499d8bd6f5141d24cd0a0cc89b6\transformed\jetified-play-services-ads-lite-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6b0e21e7e772806ca557ed804760ef22\transformed\jetified-play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6b0e21e7e772806ca557ed804760ef22\transformed\jetified-play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:28:3-46
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\IPEPH\.gradle\caches\transforms-3\43ac461557ceff48a38ef017a8e9ea5a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:26:9-41
+	android:resizeableActivity
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:30:3-36
+	android:icon
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:24:3-29
+	android:theme
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:27:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:29:3-38
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:23:3-47
+activity#com.nusantara.id.LauncherActivity
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:35:3-43:20
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:38:13-45
+	android:exported
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:35:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.nusantara.id.NusantaraActivity
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:45:3-47:39
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:46:4-36
+	android:exported
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:45:13-62
+activity#com.nusantara.id.CoinsActivity
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:48:3-49:34
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:49:4-32
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:48:13-58
+activity#com.nusantara.id.activities.ConfigGeralActivity
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:50:3-52:47
+	android:parentActivityName
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:51:4-51
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:50:13-75
+service#com.nusantara.id.model.KeepAliveService
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:55:9-74
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:55:18-72
+activity#com.nusantara.id.activities.AboutActivity
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:58:3-60:44
+	android:parentActivityName
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:59:4-51
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:60:13-42
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:58:13-69
+activity#com.nusantara.xyz.LaunchVpn
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:62:3-74:20
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:68:4-36
+	android:excludeFromRecents
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:64:13-46
+	android:autoRemoveFromRecents
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:63:4-40
+	android:exported
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:65:13-37
+	android:theme
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:67:4-40
+	android:taskAffinity
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:66:13-46
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:62:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:69:4-73:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:72:17-76
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:72:27-73
+activity#com.nusantara.id.activities.CustomDNS
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:77:3-79:29
+	android:parentActivityName
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:78:4-67
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:79:4-27
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:77:13-65
+receiver#com.nusantara.xyz.NusantaraReceiver
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:82:3-93:14
+	android:exported
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:84:13-37
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:83:4-54
+intent-filter#action:name:.NusantaraReceiver.ACTION_SERVICE_RESTART+action:name:.NusantaraReceiver.ACTION_SERVICE_STOP
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:85:4-92:20
+action#.NusantaraReceiver.ACTION_SERVICE_STOP
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:86:5-88:14
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:87:6-59
+action#.NusantaraReceiver.ACTION_SERVICE_RESTART
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:89:5-91:14
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:90:6-62
+service#com.nusantara.id.activities.InjectorService
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:95:3-72
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:95:12-70
+service#com.nusantara.xyz.tunnel.vpn.TunnelVpnService
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:97:3-105:13
+	android:enabled
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:100:4-26
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:97:12-44
+	android:exported
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:99:4-28
+	android:permission
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:101:4-60
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:98:4-64
+intent-filter#action:name:android.net.VpnService
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:102:4-104:20
+action#android.net.VpnService
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:103:5-52
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:103:13-50
+service#com.nusantara.xyz.NusantaraService
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:107:3-111:13
+	android:label
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:107:12-45
+	android:exported
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:110:4-28
+	android:stopWithTask
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:109:4-32
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:108:4-53
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:115:3-116:60
+	android:value
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:116:4-58
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:115:14-70
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:117:3-118:27
+	android:value
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:118:4-24
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:117:14-70
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:122:3-124:31
+	android:required
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:124:4-28
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:123:4-41
+activity#egcodes.com.speedtest.MainActivity
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:125:3-64
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:125:13-62
+activity#com.nusantara.id.WebBrowser
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:126:3-57
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:126:13-55
+activity#com.nusantara.id.Ambatukam
+ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:127:3-56
+	android:name
+		ADDED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml:127:13-54
+uses-sdk
+INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+MERGED from [conscrypt-android-2.5.2.aar] C:\Users\IPEPH\.gradle\caches\transforms-3\7dfea2d987c830e5f7ee55cda11bdb1b\transformed\jetified-conscrypt-android-2.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [conscrypt-android-2.5.2.aar] C:\Users\IPEPH\.gradle\caches\transforms-3\7dfea2d987c830e5f7ee55cda11bdb1b\transformed\jetified-conscrypt-android-2.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\IPEPH\.gradle\caches\transforms-3\be9ba5dac461f99251c79e17bd00f6e8\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\IPEPH\.gradle\caches\transforms-3\be9ba5dac461f99251c79e17bd00f6e8\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\IPEPH\.gradle\caches\transforms-3\4362fcb527871e718161f451f31cea78\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\IPEPH\.gradle\caches\transforms-3\4362fcb527871e718161f451f31cea78\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\294d34fd5e703b3c4038dbd695d4b394\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\294d34fd5e703b3c4038dbd695d4b394\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\IPEPH\.gradle\caches\transforms-3\d44013ef8dd8da144f9b59396f352688\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\IPEPH\.gradle\caches\transforms-3\d44013ef8dd8da144f9b59396f352688\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\IPEPH\.gradle\caches\transforms-3\dda4c85bec68dc9ca379131dbb58d934\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\IPEPH\.gradle\caches\transforms-3\dda4c85bec68dc9ca379131dbb58d934\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.kimchangyoun:rootbeerFresh:0.0.10] C:\Users\IPEPH\.gradle\caches\transforms-3\55708ade0b6a8e91de44908ac094a464\transformed\jetified-rootbeerFresh-0.0.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kimchangyoun:rootbeerFresh:0.0.10] C:\Users\IPEPH\.gradle\caches\transforms-3\55708ade0b6a8e91de44908ac094a464\transformed\jetified-rootbeerFresh-0.0.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\IPEPH\.gradle\caches\transforms-3\ffaee50a37c20ed7bb1c6ab76afed26e\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\IPEPH\.gradle\caches\transforms-3\ffaee50a37c20ed7bb1c6ab76afed26e\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\86985ebe2dc55b16895a58cdbffa8624\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\86985ebe2dc55b16895a58cdbffa8624\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\4b94dc9ea749f50a38c63fe52287427f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\4b94dc9ea749f50a38c63fe52287427f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\IPEPH\.gradle\caches\transforms-3\92847c6ec517962a80c04a7f971d5996\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\IPEPH\.gradle\caches\transforms-3\92847c6ec517962a80c04a7f971d5996\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\IPEPH\.gradle\caches\transforms-3\e1cd3b4216bd8ae860b040f6981b1279\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\IPEPH\.gradle\caches\transforms-3\e1cd3b4216bd8ae860b040f6981b1279\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\IPEPH\.gradle\caches\transforms-3\b5c4a993fada016a77e57219e76111f6\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\IPEPH\.gradle\caches\transforms-3\b5c4a993fada016a77e57219e76111f6\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\IPEPH\.gradle\caches\transforms-3\ee6ab3289ae5fe17bb544e5c7bbd1355\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\IPEPH\.gradle\caches\transforms-3\ee6ab3289ae5fe17bb544e5c7bbd1355\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\47064a952f395066271fc71f3be24dc0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\47064a952f395066271fc71f3be24dc0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\ef801f4cd202f9d346adff26f4703f03\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\ef801f4cd202f9d346adff26f4703f03\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\IPEPH\.gradle\caches\transforms-3\74e20ec8b4dbc976176201cdbf444a44\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\IPEPH\.gradle\caches\transforms-3\74e20ec8b4dbc976176201cdbf444a44\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\1585c4c2be2a8b3932e0e45525cfac7a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\1585c4c2be2a8b3932e0e45525cfac7a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\decb13dd2ad18bd8f6487c30f06c05b4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\decb13dd2ad18bd8f6487c30f06c05b4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5885c23aba5cb82796b9c0bf2ff51458\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5885c23aba5cb82796b9c0bf2ff51458\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\c355f25d81538813abdab108d311b128\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\c355f25d81538813abdab108d311b128\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\e71f9b1e35057f0915d3c9a825c8c055\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\e71f9b1e35057f0915d3c9a825c8c055\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\dd0f8b6329ce41c6293f61ae8c3e0d7f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\dd0f8b6329ce41c6293f61ae8c3e0d7f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\8d378a1fa9e7c53e4f0ab69352d3878e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\8d378a1fa9e7c53e4f0ab69352d3878e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\a63954b77b113f3ab16034653559761e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\a63954b77b113f3ab16034653559761e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\060bfcd91c4a1d88c246496b75d6e53d\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\060bfcd91c4a1d88c246496b75d6e53d\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\IPEPH\.gradle\caches\transforms-3\5d8f502005c4b98f62cdf9bfa30fd377\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\IPEPH\.gradle\caches\transforms-3\5d8f502005c4b98f62cdf9bfa30fd377\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\ad4f14a7a56b59156760a790f59a718d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\ad4f14a7a56b59156760a790f59a718d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f7554dde3be330bf02d20ce680e3f779\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f7554dde3be330bf02d20ce680e3f779\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\9882cace8b2e42b4db6ffa1276ab6739\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\9882cace8b2e42b4db6ffa1276ab6739\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\88ae161a8183b8eddafc811b527dc400\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\88ae161a8183b8eddafc811b527dc400\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\1dfa581f6fbe62b65d5dede4adb94405\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\1dfa581f6fbe62b65d5dede4adb94405\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\IPEPH\.gradle\caches\transforms-3\43ac461557ceff48a38ef017a8e9ea5a\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\IPEPH\.gradle\caches\transforms-3\43ac461557ceff48a38ef017a8e9ea5a\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\9785e2caff9380ec13202caa3b9f1390\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\9785e2caff9380ec13202caa3b9f1390\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\bb0ada9fb98dbf4e3dacc86bdbd74b69\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\bb0ada9fb98dbf4e3dacc86bdbd74b69\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\661a375e8a05ccb7b73544ee5f6b6db9\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\661a375e8a05ccb7b73544ee5f6b6db9\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7dbed2b3d4833d5af3d34b44f932bc6a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7dbed2b3d4833d5af3d34b44f932bc6a\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\cd58304f5f9e63928eb5bc4775bc4af9\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\cd58304f5f9e63928eb5bc4775bc4af9\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\107da3426154d17142d50e5983312f2d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\107da3426154d17142d50e5983312f2d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\49bff969c455936e768bb390ca623b14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\IPEPH\.gradle\caches\transforms-3\49bff969c455936e768bb390ca623b14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\bd68a78bd6e9624c84b9b7ebbfd0a904\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\bd68a78bd6e9624c84b9b7ebbfd0a904\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\891e7be3da01814443a3bc038f4f44cb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\891e7be3da01814443a3bc038f4f44cb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\e79a4b2ad5b0f33d2e9310f9df028c25\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\e79a4b2ad5b0f33d2e9310f9df028c25\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\a2c539ea7fcf6e4c4850f186d0f13f42\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\a2c539ea7fcf6e4c4850f186d0f13f42\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\3fe810f0ea619775bf2ba9acd67b2d62\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\3fe810f0ea619775bf2ba9acd67b2d62\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\a58f97117db1c6bbb12ca59c94651ebb\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\IPEPH\.gradle\caches\transforms-3\a58f97117db1c6bbb12ca59c94651ebb\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f3444f63cb1bf370ec5e929b47196d9a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f3444f63cb1bf370ec5e929b47196d9a\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7a7909f49ce1599e92ce4452073bb674\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7a7909f49ce1599e92ce4452073bb674\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\03a5b86cc1fd402926454247ee78e7c6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\03a5b86cc1fd402926454247ee78e7c6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\dbed63fe835b50be2d6d6e0d9c5a5918\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\dbed63fe835b50be2d6d6e0d9c5a5918\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6c1161375f9317274ba794e818ed8b11\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6c1161375f9317274ba794e818ed8b11\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\aa69e74e6b71c4e2a047d349c1ab89fa\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\aa69e74e6b71c4e2a047d349c1ab89fa\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7757a7744315b228162111e6fbcae197\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\IPEPH\.gradle\caches\transforms-3\7757a7744315b228162111e6fbcae197\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5d432499d8bd6f5141d24cd0a0cc89b6\transformed\jetified-play-services-ads-lite-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5d432499d8bd6f5141d24cd0a0cc89b6\transformed\jetified-play-services-ads-lite-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6b0e21e7e772806ca557ed804760ef22\transformed\jetified-play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\6b0e21e7e772806ca557ed804760ef22\transformed\jetified-play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\IPEPH\Desktop\NusantaraVPN\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\b725794c43d8d9c10b92b3c730a5c4ad\transformed\jetified-play-services-ads-lite-11.8.0\AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\IPEPH\.gradle\caches\transforms-3\5f32dcab7666e8188728c8338ef8ad9a\transformed\jetified-play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\bd68a78bd6e9624c84b9b7ebbfd0a904\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\bd68a78bd6e9624c84b9b7ebbfd0a904\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\45a3b8073bfbd51530c3116239598d1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\IPEPH\.gradle\caches\transforms-3\f2bb34fbee70e6c04542240e887d3622\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\IPEPH\.gradle\caches\transforms-3\be830ec00cbc843db913ac749e48510d\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:orientation="vertical">
+    
+    <RelativeLayout
+        android:background="?colorPrimary"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent">
+        
+        <ImageView
+            android:adjustViewBounds="true"
+            android:layout_height="40.0dip"
+            android:layout_margin="20.0dip"
+            android:layout_width="40.0dip"
+            android:src="@drawable/nusantara"/>
+        
+    
+    </RelativeLayout>
+    
+    <TextView
+        android:id="@+id/blckTextView1"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10.0dip"
+        android:layout_width="wrap_content"
+        android:text="Admin Access"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"/>
+    
+    <TextView
+        android:gravity="center"
+        android:id="@+id/blckTextView2"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Only Authorized Users. \nIf you want to be an Authorized User Just PM the Developer."
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColor="@color/colorPrimary"
+        android:textSize="10sp"
+        android:textStyle="normal"/>
+    
+    <EditText
+        android:gravity="center"
+        android:hint="Input Code"
+        android:id="@+id/code"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColorHint="?colorPrimary"/>
+    
+
+</LinearLayout>

@@ -1,0 +1,1122 @@
+[
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\font_gle.ttf.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\font\\gle.ttf"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_autorenew_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_autorenew_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_delete_forever_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_delete_forever_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_onlinedownload.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_onlinedownload.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_cloud_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_cloud_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_smartfren.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_smartfren.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_share_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_visibility_off_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_description_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_description_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_toast.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_event_note_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_event_note_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_rate_review_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_rate_review_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_logs.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_rate_review_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_rate_review_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\menu_coin_menu.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\menu\\coin_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_hunt.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_hunt.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_delete_forever_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_folder.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_event_note_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_event_note_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_timer.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_launchvpn.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\launchvpn.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_background_rounded.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\background_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_event_note_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_event_note_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_wifi_tethering_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_wifi_tethering_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_cloud_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_cloud_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_image_13.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\image_13.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_person_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_description_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_description_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_rate_review_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_rate_review_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_delete_forever_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_delete_forever_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_delete.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_mode_edit_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_mode_edit_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_group_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_group_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_autorenew_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_autorenew_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_err.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\err.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_group_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_group_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_coin.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_description_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_description_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_delete_forever_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_delete_forever_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_errornotif.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_errornotif.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_rate_review_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_rate_review_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_wifi_tethering_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_wifi_tethering_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\xml_app_preferences.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\xml\\app_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_visibility_off_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_error_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_error_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_back_icon.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_visibility_off_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_bar.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\bar.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_wifi_tethering_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_wifi_tethering_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_folder_icon.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\folder_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_mode_edit_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_mode_edit_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_wifi_tethering_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_wifi_tethering_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_main.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\main.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_stroke1.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\stroke1.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_event_note_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_event_note_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_cloud_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_cloud_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_visibility_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_wifi_tethering_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_wifi_tethering_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_group_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_group_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_logs.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_image_12.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\image_12.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_event_note_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_event_note_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_group_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_group_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_event_note_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_event_note_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_cloud_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_cloud_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_rate_review_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_rate_review_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_delete_forever_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_delete_forever_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_mode_edit_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_mode_edit_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\color_text_color.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\color\\text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_h5.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\h5.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_rate_review_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_rate_review_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_group_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_group_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_settings.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_axis.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_axis.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_bug_report_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_bug_report_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\xml_sshtunnel_preferences.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\xml\\sshtunnel_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_group_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_group_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_browse.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_autorenew_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_autorenew_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_cloud_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_cloud_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_wifi_tethering_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_wifi_tethering_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_mode_edit_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_mode_edit_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_cloud_download.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_cloud_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_autorenew_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_autorenew_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\raw_pdnsd_local.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\raw\\pdnsd_local"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_bug_report_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_bug_report_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_error_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_error_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_group_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_group_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_cloud_off_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_cloud_off_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_mode_edit_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_mode_edit_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_error_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_error_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\xml_advanced_settings_preference.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\xml\\advanced_settings_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_speedometer.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_speedometer.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_button_blue.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_mode_edit_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_mode_edit_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_person_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_delete_forever_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_delete_forever_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_autorenew_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_autorenew_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_wifi_tethering_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_wifi_tethering_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_cloud_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_cloud_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_error_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_error_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_cloud_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_cloud_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_person_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_person_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_divider.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_delete_forever_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_rate_review_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_rate_review_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\anim_shrink.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\anim\\shrink.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_rate_review_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_rate_review_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_cloud_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_cloud_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_event_note_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_event_note_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_divider_white.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\divider_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_wifi_tethering_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_wifi_tethering_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_speedtest.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_speedtest.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_bug_report_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_bug_report_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_rate_review_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_rate_review_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_butys.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\butys.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_nusantara.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\nusantara.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_rate_review_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_rate_review_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_cloud_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_cloud_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_telkomsel.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_telkomsel.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_admin_access.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\admin_access.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_visibility_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_visibility_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_wifi_tethering_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_wifi_tethering_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_pref_dialog_edittext_fix.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\pref_dialog_edittext_fix.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_cloud_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_cloud_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_h_dns.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\h_dns.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_a1g.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\a1g.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_config.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_person_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_file.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_promo_item.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\promo_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_indosat.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_indosat.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_h_to.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\h_to.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_group_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_group_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_nusantaradesign.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\nusantaradesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_server.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\server.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_visibility_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_description_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_description_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_h4.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\h4.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_share_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_visibility_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_event_note_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_event_note_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_delete_forever_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_delete_forever_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_facebook.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_nusantara.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_nusantara.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_xl.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_description_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_description_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_group_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_group_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_power_settings_new_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_power_settings_new_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_visibility_off_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_group_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_group_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_event_note_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_event_note_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_list_item_log_drawer.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\list_item_log_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_wifi_tethering_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_wifi_tethering_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_nusantaramain.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_nusantaramain.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_delete_forever_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_digicel.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_digicel.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_rate_review_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_rate_review_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_mode_edit_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_mode_edit_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_event_note_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_event_note_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_visibility_off_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_visibility_off_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_developer_mode.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_developer_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_image_1.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\image_1.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\anim_grow.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\anim\\grow.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\menu_logs_menu.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\menu\\logs_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_userpass.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\userpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_power_settings_new_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_visibility_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "com.nusantara.id.app-merged_res-31:/drawable_ic_natcom.png.flat",
+        "source": "com.nusantara.id.app-main-33:/drawable/ic_natcom.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_clear_log.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_clear_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_mode_edit_white_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_mode_edit_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_blugtm.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_blugtm.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_error_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_error_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_bug_report_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_bug_report_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_notif.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\notif.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_three.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_three.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_autorenew_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_autorenew_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_mode_edit_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_mode_edit_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_mode_edit_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_mode_edit_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_cloud_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_cloud_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_wifi_tethering_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_wifi_tethering_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_visibility_off_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_visibility_off_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_facebook.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_edsonbg.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\edsonbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_stroke.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_splash_screen_background.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\splash_screen_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_event_note_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_event_note_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_delete_forever_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_button_red.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\button_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-hdpi_ic_visibility_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-hdpi\\ic_visibility_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_bug_report_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_bug_report_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_delete_forever_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_error_outline_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_error_outline_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-mdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-mdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_h3.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\h3.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_mode_edit_black_48dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_mode_edit_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_file_icon.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\file_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xhdpi_ic_share_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xhdpi\\ic_share_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable_location.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxxhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-xxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-xxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-merged_res-31:\\drawable-anydpi-v21_ic_bug_report_black_24dp.xml.flat",
+        "source": "C:\\Users\\IPEPH\\.gradle\\daemon\\8.0\\com.nusantara.id.app-main-33:\\drawable-anydpi-v21\\ic_bug_report_black_24dp.xml"
+    }
+]

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+    
+    <include
+        layout="@layout/activity_nusantara"/>
+    
+    <include
+        layout="@layout/activity_home"/>
+    
+    <LinearLayout
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="bottom|center"
+        android:id="@+id/activity_mainLinearLayout"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:visibility="gone">
+        
+        <LinearLayout
+            android:gravity="right"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:visibility="gone">
+            
+            <TextView
+                android:id="@+id/activity_mainAutorText"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Slipk Projects"
+                android:textColor="#00BAFF"
+                android:textStyle="bold"/>
+            
+        
+        </LinearLayout>
+        
+        <LinearLayout
+            android:background="@drawable/background_rounded"
+            android:gravity="center"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="bottom"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:visibility="gone">
+            
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:padding="10dp">
+                
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:layout_width="match_parent"
+                        android:text="Bytes Received"
+                        android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    
+                    <TextView
+                        android:gravity="right"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:layout_width="match_parent"
+                        android:text="Bytes Upload"
+                        android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    
+                
+                </LinearLayout>
+                
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal">
+                    
+                    <TextView
+                        android:gravity="left"
+                        android:id="@+id/bytesIn"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:layout_width="match_parent"
+                        android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    
+                    <TextView
+                        android:gravity="right"
+                        android:id="@+id/bytesOut"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:layout_width="match_parent"
+                        android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    
+                
+                </LinearLayout>
+                
+            
+            </LinearLayout>
+            
+            <LinearLayout
+                android:background="@drawable/background_rounded"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="200dp"
+                android:orientation="vertical"
+                android:padding="5dp">
+                
+                <TextView
+                    android:id="@+id/connection_status"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Disconnected"
+                    android:textAppearance="?android:attr/textAppearanceSmall"/>
+                
+            
+            </LinearLayout>
+            
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical">
+                
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:padding="10dp">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="Tunnel Mode"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textColor="#FF000000"/>
+                    
+                    <RadioGroup
+                        android:breakStrategy="balanced"
+                        android:gravity="center"
+                        android:id="@+id/modeGroup"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal">
+                        
+                        <RadioButton
+                            android:id="@+id/ssh_mode"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0"
+                            android:layout_width="match_parent"
+                            android:text="SSH Mode"/>
+                        
+                        <RadioButton
+                            android:id="@+id/ssl_mode"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0"
+                            android:layout_width="match_parent"
+                            android:text="SSL Mode"/>
+                        
+                    
+                    </RadioGroup>
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="Select Server"
+                        android:textColor="#FF000000"/>
+                    
+                    <Spinner
+                        android:id="@+id/serverSpinner"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"/>
+                    
+                
+                </LinearLayout>
+                
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="Select Payload"
+                        android:textColor="#FF000000"/>
+                    
+                    <Spinner
+                        android:id="@+id/payloadSpinner"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"/>
+                    
+                
+                </LinearLayout>
+                
+                <androidx.appcompat.widget.SwitchCompat
+                    android:hint="Custom Payload"
+                    android:id="@+id/activity_mainCustomPayloadSwitch"
+                    android:layout_gravity="right"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"/>
+                
+            
+            </LinearLayout>
+            
+            <LinearLayout
+                android:gravity="center"
+                android:id="@+id/activity_mainInputPasswordLayout"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:paddingBottom="5dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="10dp"
+                android:visibility="gone">
+                
+                <LinearLayout
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+                    
+                    <TextView
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="@string/title_login_main"
+                        android:textColor="@color/colorText"
+                        android:textSize="18sp"
+                        android:textStyle="bold"/>
+                    
+                
+                </LinearLayout>
+                
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent">
+                    
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:drawableStart="@drawable/ic_person_black_24dp"
+                        android:ems="20"
+                        android:hint="@string/auth_username"
+                        android:id="@+id/activity_mainInputPasswordUserEdit"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:singleLine="true"
+                        android:textColor="@color/colorText"/>
+                    
+                
+                </com.google.android.material.textfield.TextInputLayout>
+                
+                <RelativeLayout
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:layout_marginLeft="4dp"
+                    android:layout_marginRight="4dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal">
+                    
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/fragment_userpassTextInputLayout"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent">
+                        
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:drawableStart="@drawable/ic_lock_black_24dp"
+                            android:ems="20"
+                            android:hint="@string/password"
+                            android:id="@+id/activity_mainInputPasswordPassEdit"
+                            android:inputType="textPassword"
+                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:singleLine="true"
+                            android:textColor="@color/colorText"/>
+                        
+                    
+                    </com.google.android.material.textfield.TextInputLayout>
+                    
+                    <LinearLayout
+                        android:layout_alignEnd="@id/fragment_userpassTextInputLayout"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:orientation="vertical">
+                        
+                        <ImageButton
+                            android:hint="@string/show_password"
+                            android:id="@+id/activity_mainInputShowPassImageButton"
+                            android:layout_gravity="right"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:src="@drawable/ic_visibility_off_black_24dp"/>
+                        
+                    
+                    </LinearLayout>
+                    
+                
+                </RelativeLayout>
+                
+            
+            </LinearLayout>
+            
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="horizontal">
+                
+                <Button
+                    android:background="@drawable/button_blue"
+                    android:id="@+id/activity_starterButtonMain"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_width="match_parent"
+                    android:text="@string/start"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold"/>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+            
+            <LinearLayout
+                android:background="@color/colorSecondaryBackground"
+                android:id="@+id/activity_mainInputPayloadLinearLayout"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:visibility="gone">
+                
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent">
+                    
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:ems="20"
+                        android:hint="@string/payload"
+                        android:id="@+id/activity_mainInputPayloadEditText"
+                        android:inputType="textMultiLine|textLongMessage"
+                        android:layout_height="wrap_content"
+                        android:layout_width="fill_parent"
+                        android:textColor="@color/colorText"/>
+                    
+                
+                </com.google.android.material.textfield.TextInputLayout>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+        <LinearLayout
+            android:background="@color/colorSecondaryBackground"
+            android:gravity="center"
+            android:id="@+id/activity_mainMetodoConexaoLayout"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:visibility="gone">
+            
+            <TextView
+                android:id="@+id/activity_mainMetodoConexaoText"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/method_connection"
+                android:textStyle="bold"/>
+            
+            <RadioGroup
+                android:breakStrategy="balanced"
+                android:gravity="center"
+                android:id="@+id/activity_mainMetodoConexaoRadio"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="horizontal">
+                
+                <androidx.appcompat.widget.AppCompatRadioButton
+                    android:hint="SSH DIRECT"
+                    android:id="@+id/activity_mainSSHDirectRadioButton"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:padding="5dp"/>
+                
+                <androidx.appcompat.widget.AppCompatRadioButton
+                    android:hint="SSH + PROXY"
+                    android:id="@+id/activity_mainSSHProxyRadioButton"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"/>
+                
+                <androidx.appcompat.widget.AppCompatRadioButton
+                    android:hint="SSH + SSL"
+                    android:id="@+id/activity_mainSSHSSLRadioButton"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"/>
+                
+            
+            </RadioGroup>
+            
+        
+        </LinearLayout>
+        
+        <LinearLayout
+            android:background="@color/colorSecondaryBackground"
+            android:gravity="center_horizontal"
+            android:id="@+id/activity_mainInputProxyLayout"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:visibility="gone">
+            
+            <LinearLayout
+                android:layout_gravity="start"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+                
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="@string/proxy_remote"
+                    android:textStyle="bold"/>
+                
+                <TextView
+                    android:id="@+id/activity_mainProxyText"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="@string/no_value"/>
+                
+            
+            </LinearLayout>
+            
+            <LinearLayout
+                android:layout_gravity="right"
+                android:layout_height="match_parent"
+                android:layout_width="fill_parent"
+                android:orientation="vertical">
+                
+                <ImageView
+                    android:layout_gravity="end"
+                    android:layout_height="match_parent"
+                    android:layout_width="30dp"
+                    android:src="@drawable/ic_mode_edit_black_48dp"/>
+                
+            
+            </LinearLayout>
+            
+        
+        </LinearLayout>
+        
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adBannerMainView"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_width="wrap_content"
+            android:visibility="gone"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-2077509769019467/7218529715"
+            android:layout_gravity="center"/>
+        
+        <LinearLayout
+            android:background="@drawable/background_rounded"
+            android:id="@+id/activity_mainMensagemConfigLinearLayout"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:visibility="gone">
+            
+            <TextView
+                android:autoLink="web"
+                android:id="@+id/activity_mainMensagemConfigTextView"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+            
+        
+        </LinearLayout>
+        
+    
+    </LinearLayout>
+    
+
+</LinearLayout>

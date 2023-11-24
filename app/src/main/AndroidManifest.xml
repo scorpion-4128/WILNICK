@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	
+	<!--- Permissions -->
+
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+	<uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+	<uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+	<uses-permission android:name="android.permission.MODIFY_SYSTEM_SETTINGS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    
+	<!--- Application -->
+		
+    <application
+		android:name="com.nusantara.id.NusantaraApp"
+		android:allowBackup="true"
+        android:icon="@drawable/nusantara"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+		android:requestLegacyExternalStorage="true"
+		android:usesCleartextTraffic="true"
+		android:resizeableActivity="true">
+		
+		
+		<!--- Activities -->
+			
+		<activity android:name="com.nusantara.id.LauncherActivity"
+            android:theme="@style/SplashScreenTheme" 
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+		
+		<activity android:name="com.nusantara.id.NusantaraActivity"
+			android:label="@string/app_name"
+            android:exported="true" />
+		<activity android:name="com.nusantara.id.CoinsActivity"
+			android:label="Coin Manager"/>
+		<activity android:name="com.nusantara.id.activities.ConfigGeralActivity"
+			android:parentActivityName=".NusantaraActivity"
+            android:label="@string/settings"/>
+		
+		
+        <service android:name="com.nusantara.id.model.KeepAliveService"/>
+		
+		
+		<activity android:name="com.nusantara.id.activities.AboutActivity"
+			android:parentActivityName=".NusantaraActivity"
+            android:label="@string/about"/>
+		
+		<activity android:name="com.nusantara.xyz.LaunchVpn"
+			android:autoRemoveFromRecents="true"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:taskAffinity=".LaunchVPN"
+			android:theme="@style/AppThemeLogin" 
+			android:label="@string/app_name">
+			<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<!--         This is for ensuring the background service still runs when/if the app is swiped away -->
+		<activity android:name="com.nusantara.id.activities.CustomDNS"
+			android:parentActivityName="com.nusantara.id.NusantaraActivity"
+			android:label="Set DNS"/>
+
+		<!--- Receivers -->
+		<receiver
+			android:name="com.nusantara.xyz.NusantaraReceiver"
+            android:exported="false" >
+			<intent-filter>
+				<action
+					android:name=".NusantaraReceiver.ACTION_SERVICE_STOP">
+				</action>
+				<action
+					android:name=".NusantaraReceiver.ACTION_SERVICE_RESTART">
+				</action>
+			</intent-filter>
+		</receiver>
+
+		<service android:name="com.nusantara.id.activities.InjectorService"/>
+		<!--- Services -->
+		<service android:label="@string/app_name"
+			android:name="com.nusantara.xyz.tunnel.vpn.TunnelVpnService"
+			android:exported="false"
+			android:enabled="true"
+			android:permission="android.permission.BIND_VPN_SERVICE">
+			<intent-filter>
+				<action android:name="android.net.VpnService"/>
+			</intent-filter>
+		</service>
+
+		<service android:label="Nusantara Service"
+			android:name="com.nusantara.xyz.NusantaraService"
+			android:stopWithTask="false"
+			android:exported="false">
+		</service>
+	
+		<!--- Meta Data -->
+
+		<meta-data android:name="com.google.android.gms.ads.APPLICATION_ID"
+			android:value="ca-app-pub-9870690854198040~5410771051"/>
+		<meta-data android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+			android:value="true" />
+		
+		
+		<!-- corrige bug em Android 9 -->
+		<uses-library
+			android:name="org.apache.http.legacy"
+			android:required="false" />
+		<activity android:name="egcodes.com.speedtest.MainActivity"/>
+		<activity android:name="com.nusantara.id.WebBrowser"/>
+		<activity android:name="com.nusantara.id.Ambatukam"/>
+    </application>
+
+	
+</manifest>
